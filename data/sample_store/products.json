@@ -1,0 +1,242 @@
+[
+  {
+    "id": "p001",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "price_amd": 4500,
+    "in_stock": true,
+    "description": "A poetic classic about friendship and seeing beyond appearances."
+  },
+  {
+    "id": "p002",
+    "title": "1984",
+    "author": "George Orwell",
+    "price_amd": 5200,
+    "in_stock": true,
+    "description": "A dystopian novel about surveillance, language, and power."
+  },
+  {
+    "id": "p003",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "price_amd": 6800,
+    "in_stock": false,
+    "description": "The first Hogwarts adventure of Harry Potter."
+  },
+  {
+    "id": "p004",
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "price_amd": 6100,
+    "in_stock": true,
+    "description": "A magical Russian classic about art, love, and freedom."
+  },
+  {
+    "id": "p005",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price_amd": 3900,
+    "in_stock": true,
+    "description": "A philosophical journey about following a dream."
+  },
+  {
+    "id": "p006",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price_amd": 4700,
+    "in_stock": true,
+    "description": "A witty classic romance and social novel."
+  },
+  {
+    "id": "p007",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "price_amd": 8200,
+    "in_stock": false,
+    "description": "A history of humankind from early societies to modern life."
+  },
+  {
+    "id": "p008",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price_amd": 12500,
+    "in_stock": true,
+    "description": "Practical principles for writing maintainable software."
+  },
+  {
+    "id": "p009",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "price_amd": 7600,
+    "in_stock": true,
+    "description": "Strategies for focused work in a distracted world."
+  },
+  {
+    "id": "p010",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price_amd": 7300,
+    "in_stock": true,
+    "description": "A practical system for building good habits."
+  },
+  {
+    "id": "p011",
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "price_amd": 9100,
+    "in_stock": true,
+    "description": "How design communicates function and prevents errors."
+  },
+  {
+    "id": "p012",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "price_amd": 8800,
+    "in_stock": false,
+    "description": "An epic science-fiction story of politics, ecology, and destiny."
+  },
+  {
+    "id": "p013",
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "price_amd": 5900,
+    "in_stock": true,
+    "description": "Bilbo Baggins leaves home for an unexpected adventure."
+  },
+  {
+    "id": "p014",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price_amd": 5400,
+    "in_stock": true,
+    "description": "A coming-of-age story about justice and empathy."
+  },
+  {
+    "id": "p015",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "price_amd": 5700,
+    "in_stock": true,
+    "description": "A psychological novel about guilt, morality, and redemption."
+  },
+  {
+    "id": "p016",
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "price_amd": 9900,
+    "in_stock": true,
+    "description": "A popular science journey through space, time, and humanity."
+  },
+  {
+    "id": "p017",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "price_amd": 10500,
+    "in_stock": false,
+    "description": "An accessible introduction to cosmology and black holes."
+  },
+  {
+    "id": "p018",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "price_amd": 24000,
+    "in_stock": true,
+    "description": "A comprehensive textbook on algorithms and data structures."
+  },
+  {
+    "id": "p019",
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas and Andrew Hunt",
+    "price_amd": 14500,
+    "in_stock": true,
+    "description": "Engineering habits for effective software development."
+  },
+  {
+    "id": "p020",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "price_amd": 7200,
+    "in_stock": true,
+    "description": "A philosophical family novel about faith, reason, and responsibility."
+  },
+  {
+    "id": "p021",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "price_amd": 8700,
+    "in_stock": true,
+    "description": "A guide to two systems of human thinking."
+  },
+  {
+    "id": "p022",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor Frankl",
+    "price_amd": 4900,
+    "in_stock": true,
+    "description": "Reflections on suffering, purpose, and resilience."
+  },
+  {
+    "id": "p023",
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "price_amd": 3500,
+    "in_stock": true,
+    "description": "Classical strategic principles and leadership lessons."
+  },
+  {
+    "id": "p024",
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "price_amd": 4300,
+    "in_stock": true,
+    "description": "Stoic reflections on discipline and a good life."
+  },
+  {
+    "id": "p025",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "price_amd": 9300,
+    "in_stock": false,
+    "description": "An evolutionary view of genes, behavior, and cooperation."
+  },
+  {
+    "id": "p026",
+    "title": "The Republic",
+    "author": "Plato",
+    "price_amd": 5100,
+    "in_stock": true,
+    "description": "A philosophical dialogue about justice and the ideal state."
+  },
+  {
+    "id": "p027",
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "price_amd": 8900,
+    "in_stock": true,
+    "description": "An explanation of unequal development across societies."
+  },
+  {
+    "id": "p028",
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "price_amd": 6400,
+    "in_stock": true,
+    "description": "A historical mystery set in a medieval monastery."
+  },
+  {
+    "id": "p029",
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "price_amd": 5600,
+    "in_stock": true,
+    "description": "A reflective novel about memory, love, and loss."
+  },
+  {
+    "id": "p030",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "price_amd": 6200,
+    "in_stock": true,
+    "description": "A stranded astronaut survives through engineering and science."
+  }
+]

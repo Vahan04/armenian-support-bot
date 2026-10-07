@@ -1,0 +1,143 @@
+[
+  {
+    "id": "f001",
+    "topic": "delivery",
+    "answer": "Delivery is available in Yerevan for 1000 AMD. Orders over 15000 AMD receive free Yerevan delivery.",
+    "facts": [
+      "delivery in Yerevan",
+      "1000 AMD",
+      "free delivery over 15000 AMD"
+    ]
+  },
+  {
+    "id": "f002",
+    "topic": "regional delivery",
+    "answer": "Delivery outside Yerevan is available through HayPost. The customer pays the shipping fee.",
+    "facts": [
+      "outside Yerevan",
+      "HayPost",
+      "customer pays shipping"
+    ]
+  },
+  {
+    "id": "f003",
+    "topic": "payment",
+    "answer": "We accept cash on delivery and card payment through Idram.",
+    "facts": [
+      "cash on delivery",
+      "card payment",
+      "Idram"
+    ]
+  },
+  {
+    "id": "f004",
+    "topic": "opening hours",
+    "answer": "The store is open Monday to Saturday from 10:00 to 20:00. It is closed on Sunday.",
+    "facts": [
+      "Monday to Saturday",
+      "10:00",
+      "20:00",
+      "closed on Sunday"
+    ]
+  },
+  {
+    "id": "f005",
+    "topic": "address",
+    "answer": "The bookstore is at 12 Abovyan Street, Yerevan.",
+    "facts": [
+      "12 Abovyan Street",
+      "Yerevan"
+    ]
+  },
+  {
+    "id": "f006",
+    "topic": "returns",
+    "answer": "Unused books can be returned within 14 days with the receipt.",
+    "facts": [
+      "unused books",
+      "14 days",
+      "receipt"
+    ]
+  },
+  {
+    "id": "f007",
+    "topic": "exchange",
+    "answer": "We exchange damaged books within 7 days when the receipt is provided.",
+    "facts": [
+      "damaged books",
+      "7 days",
+      "receipt"
+    ]
+  },
+  {
+    "id": "f008",
+    "topic": "gift wrapping",
+    "answer": "Gift wrapping is available for 500 AMD per book.",
+    "facts": [
+      "gift wrapping",
+      "500 AMD"
+    ]
+  },
+  {
+    "id": "f009",
+    "topic": "reservations",
+    "answer": "We can reserve an in-stock book for 48 hours. Please call the store.",
+    "facts": [
+      "in-stock book",
+      "48 hours",
+      "call the store"
+    ]
+  },
+  {
+    "id": "f010",
+    "topic": "bulk orders",
+    "answer": "For orders of more than 10 copies, contact us for a business quote.",
+    "facts": [
+      "more than 10 copies",
+      "business quote"
+    ]
+  },
+  {
+    "id": "f011",
+    "topic": "student discount",
+    "answer": "We do not currently have a student discount.",
+    "facts": [
+      "no student discount"
+    ]
+  },
+  {
+    "id": "f012",
+    "topic": "ebook",
+    "answer": "We sell printed books only; ebooks are not available.",
+    "facts": [
+      "printed books only",
+      "ebooks not available"
+    ]
+  },
+  {
+    "id": "f013",
+    "topic": "contact",
+    "answer": "For human support, call +374 10 555 555 during opening hours.",
+    "facts": [
+      "human support",
+      "+374 10 555 555"
+    ]
+  },
+  {
+    "id": "f014",
+    "topic": "preorders",
+    "answer": "Preorders are not currently available.",
+    "facts": [
+      "preorders not available"
+    ]
+  },
+  {
+    "id": "f015",
+    "topic": "lost receipt",
+    "answer": "Returns require the original receipt; we cannot process a return without it.",
+    "facts": [
+      "original receipt",
+      "no return without receipt"
+    ]
+  }
+]
