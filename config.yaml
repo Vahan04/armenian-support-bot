@@ -1,0 +1,11 @@
+business:
+  name: Արարատ Գրքեր
+  default_reply_language_for_translit: hy
+models:
+  embedding_model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+  llm_provider: none
+  llm_model: null
+evaluation:
+  retrieval_k: 3
+  llm_judge_enabled: false
+  cache_path: results/llm_cache.json
